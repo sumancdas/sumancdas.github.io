@@ -4,8 +4,12 @@ This folder contains projects completed during my Bachelor of Cybersecurity stud
 
 ## Projects
 
-### Smart Grid Cyberattack Analysis (BPR28)
-Bachelor project focused on analyzing communication performance degradation during cyberattacks in a smart grid environment using SmartGridSim, Mininet, Wireshark, and Python.
+## Smart Grid Cyberattack Analysis (BPR28)
+
+Bachelor project focused on analyzing network performance degradation during cyberattacks in a simulated smart grid environment.
+
+Project Folder:
+SmartGrid-Cyberattack-Analysis-BPR28
 
 ### Password Strength Checker
 A simple security tool that checks password strength and provides recommendations for creating stronger passwords.
